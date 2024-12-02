@@ -1,5 +1,5 @@
 readme
-AI Chatbot Application by Lorita
+AI Chatbot Application by Lorita link to my demovideo: https://youtu.be/lQFbqPAQ_6Y
 This project is a straightforward web application with a conversational interface for an AI chatbot. It is intended to illustrate load balancing, deployment, and web development strategies. You may find comprehensive instructions on how to execute the application locally, deploy it to web servers, and set up a load balancer to guarantee scalability and dependability below.
 features a chatbot UI that is responsive.
 Load-balanced deployment for high availability.
